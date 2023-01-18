@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "Sincere@april.biz",
+      "salary": "25000",
+      "date": "2022-06-08",
+      "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "John Smith",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+        "email": "johnsmith@april.biz",
+        "salary": "26400",
+        "date": "2022-05-10",
+        "status": "active"  
+    },
+    {
+        "id": 2,
+        "name": "John Does",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+        "email": "johndoes@april.biz",
+        "salary": "27400",
+        "date": "2022-10-10",
+        "status": "active"  
+    }
+]
